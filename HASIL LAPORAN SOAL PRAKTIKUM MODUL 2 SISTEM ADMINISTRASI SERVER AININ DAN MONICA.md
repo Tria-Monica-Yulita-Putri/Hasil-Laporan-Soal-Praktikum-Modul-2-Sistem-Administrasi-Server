@@ -13,7 +13,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\1.png)
+   ![1](https://user-images.githubusercontent.com/92940432/144391352-7bdcfab1-05fd-4f79-8118-40459561c2eb.png)
 
    
 
@@ -25,7 +25,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\2.png)
+     ![2](https://user-images.githubusercontent.com/92940432/144391379-a97cc80b-bd86-492e-8ee8-5cfaba433c1c.png)
 
      
 
@@ -45,7 +45,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\3.png)
+     ![3](https://user-images.githubusercontent.com/92940432/144391382-1f385486-38af-4213-ab33-f2d636bc9453.png)
 
      
 
@@ -57,7 +57,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\4.png)
+     ![4](https://user-images.githubusercontent.com/92940432/144391391-daa63206-c1e9-47c3-8069-717d1a83744f.png)
 
      
 
@@ -73,7 +73,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\5.png)
+     ![5](https://user-images.githubusercontent.com/92940432/144391394-1f75bb86-e02e-4e10-abda-01a30e4a68ed.png)
 
      
 
@@ -85,7 +85,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\6.png)
+     ![6](https://user-images.githubusercontent.com/92940432/144391401-7a865914-7fd2-4e1e-be91-dc6536971d67.png)
 
      
 
@@ -97,7 +97,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\7.png)
+     ![7](https://user-images.githubusercontent.com/92940432/144391407-c7203048-f670-4078-914c-752565ab6ec1.png)
 
      
 
@@ -113,7 +113,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\8.png)
+     ![8](https://user-images.githubusercontent.com/92940432/144391409-e1b78740-207b-47b0-b9c2-9d23eec04c5b.png)
 
      
 
@@ -125,7 +125,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\9.png)
+     ![9](https://user-images.githubusercontent.com/92940432/144391413-c79ba3a8-8a02-4217-8be6-7d63b063e1dd.png)
 
      
 
@@ -151,7 +151,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\10.png)
+   ![10](https://user-images.githubusercontent.com/92940432/144391425-6023e979-8844-412e-ba05-be077345bb40.png)
 
    
 
@@ -163,7 +163,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\11.png)
+     ![11](https://user-images.githubusercontent.com/92940432/144391442-65e55d03-5d16-4711-aab2-82c9df255d4d.png)
 
      
 
@@ -187,7 +187,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\12.png)
+     ![12](https://user-images.githubusercontent.com/92940432/144391446-57a692ff-9bf1-4dc6-8a8c-5b7fd31eed3a.png)
 
      
 
@@ -199,7 +199,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\13.png)
+     ![13](https://user-images.githubusercontent.com/92940432/144391454-5e7278da-c349-4de3-bca4-7eeb6497d06d.png)
+
 
      
 
@@ -215,7 +216,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\14.png)
+     ![14](https://user-images.githubusercontent.com/92940432/144391461-13b60404-ef8c-4704-9704-d884948dd4a4.png)
 
      
 
@@ -227,7 +228,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\15.png)
+     ![15](https://user-images.githubusercontent.com/92940432/144391464-c11bf104-8573-4453-90f6-c2213c623926.png)
 
      
 
@@ -243,7 +244,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\16.png)
+     ![16](https://user-images.githubusercontent.com/92940432/144391925-163baeda-ec36-47ef-a299-a94f802abced.png)
 
      
 
@@ -260,7 +261,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\17.png)
+     ![17](https://user-images.githubusercontent.com/92940432/144391937-65549b00-180a-46ef-8d46-6beacae54505.png)
 
      
 
@@ -272,7 +273,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\18.png)
+     ![18](https://user-images.githubusercontent.com/92940432/144391942-d183cc64-01fa-470b-a018-d206a37b2051.png)
 
      
 
@@ -290,7 +291,7 @@
 
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\19.png)
+     ![19](https://user-images.githubusercontent.com/92940432/144391957-9c50fa0b-1ce1-4658-bb4a-174751b6d11d.png)
 
      
 
@@ -307,7 +308,7 @@
      
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\20.png)
+     ![20](https://user-images.githubusercontent.com/92940432/144391962-00b5fd3e-91c3-408d-b832-bee56ec6eef5.png)
      
      
      
@@ -360,7 +361,7 @@
      
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\21.png)
+     ![21](https://user-images.githubusercontent.com/92940432/144391964-8dac0f1d-970a-4fa5-ac64-3f0b014d14c5.png)
      
      
 
@@ -372,7 +373,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\22.png)
+     ![22](https://user-images.githubusercontent.com/92940432/144391970-4de5b33b-e361-454b-906c-a16360503da9.png)
 
      
 
@@ -447,7 +448,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\23.png)
+     ![23](https://user-images.githubusercontent.com/92940432/144391986-3e258763-727d-43c1-b9f0-5b1f6b668d17.png)
+
 
      
 
@@ -459,7 +461,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\24.png)
+     ![24](https://user-images.githubusercontent.com/92940432/144391992-508b1e49-924c-4b8a-bee5-5d9529f410a5.png)
+
 
      
 
@@ -494,7 +497,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\25.png)
+     ![25](https://user-images.githubusercontent.com/92940432/144392005-0adad875-ebdf-453b-a6de-8c1b7ba1923b.png)
 
      
 
@@ -552,8 +555,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\26.png)
-
+     ![26](https://user-images.githubusercontent.com/92940432/144392010-492b573c-dbe4-4c07-a818-f2d7f9348520.png)
      
 
    * Setelah setting config.yml, maka langkah selanajutnya yaitu coba memanggil config.yml
@@ -564,7 +566,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\27.png)
+     ![27](https://user-images.githubusercontent.com/92940432/144392017-e89d75e5-8a16-4e37-ad9d-0a014cc9da58.png)
+
 
      
 
@@ -572,7 +575,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\28.png)
+     ![28](https://user-images.githubusercontent.com/92940432/144392025-bdc5be0e-7947-4122-90aa-0974a21d842a.png)
+
 
      
 
@@ -594,7 +598,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\29.png)
+     ![29](https://user-images.githubusercontent.com/92940432/144392034-e13534eb-6c04-4162-b827-4ba35c86fadf.png)
 
      
 
@@ -606,7 +610,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\30.png)
+     ![30](https://user-images.githubusercontent.com/92940432/144392038-3110cc4a-b2ef-4f60-b6de-23f95b4de150.png)
 
      
 
@@ -715,7 +719,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\31.png)
+     ![31](https://user-images.githubusercontent.com/92940432/144392042-08d38383-584e-487b-aa27-03ca891ff650.png)
    
      
    
@@ -831,7 +835,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\33.png)
+     ![33](https://user-images.githubusercontent.com/92940432/144392045-0b43de3a-5dc7-460d-95f8-46a30fe0dfc8.png)
    
      
    
@@ -877,7 +881,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\34.png)
+     ![34](https://user-images.githubusercontent.com/92940432/144392051-affc6cca-7252-4442-829b-3c5661ae03bc.png)
    
      
    
@@ -889,7 +893,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\35.png)
+     ![35](https://user-images.githubusercontent.com/92940432/144392055-4a5f4c8a-6e9c-4f0c-87d0-8f4cd7b6aed1.png)
    
      
    
@@ -897,7 +901,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\36.png)
+    ![36](https://user-images.githubusercontent.com/92940432/144392061-cd5ecaf0-ebb7-446a-9623-0e32b520bb6d.png)
    
      
    
@@ -905,7 +909,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\37.png)
+       ![37](https://user-images.githubusercontent.com/92940432/144392064-2265aaec-fcaa-4344-af63-dd19fe4de6cb.png)
    
      
    
@@ -913,7 +917,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\38.png)
+       ![38](https://user-images.githubusercontent.com/92940432/144392067-cd2d6ba9-a093-4919-9ef1-772f0101ca32.png)
    
      
    
@@ -921,7 +925,7 @@
    
        
        
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\39.png)
+       ![39](https://user-images.githubusercontent.com/92940432/144392071-701a0591-ba79-48ab-a422-7449d762a411.png)
    
      
    
@@ -929,7 +933,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\40.png)
+       ![40](https://user-images.githubusercontent.com/92940432/144392073-9ae3d309-1fb3-49b6-b88b-775395d7653f.png)
    
      
    
@@ -937,7 +941,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\41.png)
+       ![41](https://user-images.githubusercontent.com/92940432/144392795-28a3571d-8f9d-4c46-ace0-9f1fc52afb45.png)
      
 
 
@@ -946,7 +950,7 @@
 
 - Rubah konfigurasi php7.4 yang semula menggunakan socket menjadi menggunakan port (127.0.0.1:9001) 
 
-  ##### **Untuk vm.local (laravel)**
+  #### **Untuk vm.local (laravel)**
 
   * Pertama-tama masuk ke nano lxc_landing.dev untuk mengubah konfigurasi di dalam nano lxc_landing.dev dengan port 127.0.0.1:9001
 
@@ -956,11 +960,11 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\42.png)
+    ![42](https://user-images.githubusercontent.com/92940432/144392823-a1e3a0b4-8411-4441-90b4-eb61b70b1f0a.png)
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\43.png)
+    ![43](https://user-images.githubusercontent.com/92940432/144392829-a721da78-69ec-4949-841b-4bc6a1b69573.png)
 
     
 
@@ -1007,11 +1011,12 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\44.png)
+    ![44](https://user-images.githubusercontent.com/92940432/144392836-53435977-82c0-48f4-a4f8-d6a07d4a2212.png)
+
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\45.png)
+    ![45](https://user-images.githubusercontent.com/92940432/144392840-0ff2604e-c97a-4568-8ec4-da0bb5cc16f3.png)
 
     
 
@@ -1023,7 +1028,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\46.png)
+    ![46](https://user-images.githubusercontent.com/92940432/144392851-782cf283-19f4-4617-81e4-a70dba391b06.png)
 
     
 
@@ -1031,11 +1036,12 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\47.png)
+    ![47](https://user-images.githubusercontent.com/92940432/144392860-aa7d6549-694a-4735-a17a-4bab97cd4f16.png)
+
 
     
 
-  **Untuk vm.local/blog (wordpress)**
+  #### **Untuk vm.local/blog (wordpress)**
 
   * Pertama-tama masuk ke nano wordpress.conf untuk mengubah konfigurasi di dalam nano wordpress.conf  dengan port 127.0.0.1:9001
 
@@ -1045,11 +1051,11 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\48.png)
+    ![48](https://user-images.githubusercontent.com/92940432/144392867-8cb89aba-786b-478d-b2ec-242f064520a8.png)
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\49.png)
+    ![49](https://user-images.githubusercontent.com/92940432/144392873-d6c750ca-5f67-4186-86b4-fc3146ab6277.png)
 
     
 
@@ -1096,11 +1102,11 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\50.png)
+    ![50](https://user-images.githubusercontent.com/92940432/144392878-8dfb2c51-607f-402e-bfab-6826bd73d494.png)
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\51.png)
+    ![51](https://user-images.githubusercontent.com/92940432/144392884-014afce6-b4d7-46bd-a548-10b002ba2e83.png)
 
     
 
@@ -1112,7 +1118,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\52.png)
+    ![52](https://user-images.githubusercontent.com/92940432/144392891-7502d589-3b9f-4269-8f19-18071f79ff8d.png)
 
     
 
@@ -1120,7 +1126,7 @@
 
     
 
-    ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\53.png)
+    ![53](https://user-images.githubusercontent.com/92940432/144392909-bcaca22d-eaa9-4966-a6fd-1b7d04ecc2e9.png)
 
     
 
