@@ -968,7 +968,7 @@
 
     
 
-  * Setelah merubah konfigurasu di dalam lxc_landing.dev, maka langkah selanjutnya yaitu membuat file dengan memberikan nama tambahan1.yml. Setelah itu masuk ke file tambahan1.yml yang sudah dibuat tadi untuk mengganti `listen nya menjadi 127.0.0.1:9001
+  * Setelah merubah konfigurasi di dalam lxc_landing.dev, maka langkah selanjutnya yaitu membuat file dengan memberikan nama tambahan1.yml. Setelah itu masuk ke file tambahan1.yml yang sudah dibuat tadi untuk mengganti `listen nya menjadi 127.0.0.1:9001
 
     ```markdown
     nano tambahan1.yml
