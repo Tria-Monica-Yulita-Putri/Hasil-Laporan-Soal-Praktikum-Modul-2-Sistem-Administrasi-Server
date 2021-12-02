@@ -1,4 +1,4 @@
-*HASIL LAPORAN SOAL PRAKTIKUM MODUL 2 SISTEM ADMINISTRASI SERVER**
+**HASIL LAPORAN SOAL PRAKTIKUM MODUL 2 SISTEM ADMINISTRASI SERVER**
 
 1. Pertama-tama rubah LXC landing dengan ubuntu focal (destroy n create, same ip, same name)
 
