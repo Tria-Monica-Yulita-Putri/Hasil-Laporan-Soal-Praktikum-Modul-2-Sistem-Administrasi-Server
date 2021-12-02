@@ -13,7 +13,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\1.png)
+   ![1](https://user-images.githubusercontent.com/92940432/144348962-a32ed6e1-412a-4703-8085-11099617489e.png)
 
    
 
@@ -25,7 +25,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\2.png)
+     ![2](https://user-images.githubusercontent.com/92940432/144348968-28b930f1-b727-4d3f-90f8-7ba7d3181be9.png)
 
      
 
@@ -45,7 +45,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\3.png)
+     ![3](https://user-images.githubusercontent.com/92940432/144348970-c4079ee8-5348-4ce9-9c46-5a7c5f424801.png)
 
      
 
@@ -57,7 +57,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\4.png)
+     ![4](https://user-images.githubusercontent.com/92940432/144348971-71eed8d1-7f4b-4d92-9d80-00ad4bce73cf.png)
 
      
 
@@ -73,7 +73,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\5.png)
+     ![5](https://user-images.githubusercontent.com/92940432/144349433-1e5d94ee-d910-436a-91ee-b78d658d2e2d.png)
 
      
 
@@ -85,7 +85,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\6.png)
+     ![6](https://user-images.githubusercontent.com/92940432/144348975-a8061340-2876-4cfb-8146-03e6a8b8176f.png)
 
      
 
@@ -97,7 +97,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\7.png)
+     ![7](https://user-images.githubusercontent.com/92940432/144348976-6acc16c5-0181-41a9-933e-9b90afda47b8.png)
 
      
 
@@ -113,7 +113,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\8.png)
+     ![8](https://user-images.githubusercontent.com/92940432/144348978-6aae2f2a-4543-42a0-839a-ed2ac6b992d9.png)
 
      
 
@@ -125,7 +125,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\9.png)
+     ![9](https://user-images.githubusercontent.com/92940432/144348981-6054c55d-49d1-41df-b149-d881ff80a79f.png)
 
      
 
@@ -151,7 +151,7 @@
 
    
 
-   ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\10.png)
+   ![10](https://user-images.githubusercontent.com/92940432/144348983-8c0616c4-5df0-42f1-ba47-33336d0ba7b7.png)
 
    
 
@@ -163,7 +163,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\11.png)
+     ![11](https://user-images.githubusercontent.com/92940432/144348986-26e74343-eb8c-4ae9-bdb5-e3a6aff15547.png)
 
      
 
@@ -187,7 +187,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\12.png)
+     ![12](https://user-images.githubusercontent.com/92940432/144348988-74e80a7f-59ac-4e09-a954-acf55f888a86.png)
 
      
 
@@ -199,7 +199,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\13.png)
+     ![13](https://user-images.githubusercontent.com/92940432/144348990-85120352-a83c-4d41-883f-a02efbdca07b.png)
 
      
 
@@ -215,7 +215,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\14.png)
+     ![14](https://user-images.githubusercontent.com/92940432/144348991-a64bace9-6481-41b6-bfc8-6a39ae88063d.png)
 
      
 
@@ -227,7 +227,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\15.png)
+     ![15](https://user-images.githubusercontent.com/92940432/144348994-c2ca7702-51a2-4c4b-b692-cf01bee7b6f2.png)
 
      
 
@@ -243,7 +243,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\16.png)
+     ![16](https://user-images.githubusercontent.com/92940432/144349705-8d25a562-cd8b-4e7d-8c99-ecd3ba4ec66b.png)
 
      
 
@@ -260,7 +260,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\17.png)
+     ![17](https://user-images.githubusercontent.com/92940432/144349711-3d150582-69cf-4ab8-be3c-9174473e2e23.png)
 
      
 
@@ -272,7 +272,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\18.png)
+     ![18](https://user-images.githubusercontent.com/92940432/144349712-ad996a6a-eb21-48a3-8105-59b17d0e8efb.png)
 
      
 
@@ -290,7 +290,8 @@
 
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\19.png)
+     ![19](https://user-images.githubusercontent.com/92940432/144349722-c1794187-da2a-4936-8164-4690b38e95fb.png)
+
 
      
 
@@ -307,7 +308,7 @@
      
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\20.png)
+     ![20](https://user-images.githubusercontent.com/92940432/144349726-1a827524-1ad5-4447-8bb4-e0357b333a99.png)
      
      
      
@@ -360,7 +361,7 @@
      
      
      
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\21.png)
+     ![21](https://user-images.githubusercontent.com/92940432/144349729-b7939409-b9be-4850-9362-648b3b16efea.png)
      
      
 
@@ -372,7 +373,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\22.png)
+     ![22](https://user-images.githubusercontent.com/92940432/144349734-b3b71b1c-b423-4f90-9643-bff303983dac.png)
 
      
 
@@ -447,7 +448,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\23.png)
+     ![23](https://user-images.githubusercontent.com/92940432/144349742-470fe6a8-29dc-4290-9c86-8ba978f2505e.png)
 
      
 
@@ -459,7 +460,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\24.png)
+     ![24](https://user-images.githubusercontent.com/92940432/144349745-2a87653b-f823-4964-9e6c-4ac28ce7e18c.png)
 
      
 
@@ -494,7 +495,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\25.png)
+     ![25](https://user-images.githubusercontent.com/92940432/144349753-40998fbf-42c1-4b4b-823b-1d33a91c2c3a.png)
 
      
 
@@ -552,7 +553,8 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\26.png)
+     ![26](https://user-images.githubusercontent.com/92940432/144349755-35517f27-fa04-466e-97a2-3d3063a56f85.png)
+
 
      
 
@@ -564,7 +566,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\27.png)
+     ![27](https://user-images.githubusercontent.com/92940432/144349758-e36e0b84-c07f-44a8-90f7-b5da8afa3dee.png)
 
      
 
@@ -572,7 +574,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\28.png)
+     ![28](https://user-images.githubusercontent.com/92940432/144349765-2cfc4d67-9530-448f-823f-33bd062a88b0.png)
 
      
 
@@ -594,7 +596,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\29.png)
+     ![29](https://user-images.githubusercontent.com/92940432/144349775-21310b25-4481-42c1-8dff-03ce932dc6e8.png)
 
      
 
@@ -606,7 +608,7 @@
 
      
 
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\30.png)
+     ![30](https://user-images.githubusercontent.com/92940432/144349779-cf62ceb9-a6bf-470e-9b3e-4e7cbad356f0.png)
 
      
 
@@ -715,7 +717,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\31.png)
+     ![31](https://user-images.githubusercontent.com/92940432/144350154-3f3dd777-ab05-4862-b019-84d652273d3f.png)
    
      
    
@@ -831,7 +833,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\33.png)
+     ![33](https://user-images.githubusercontent.com/92940432/144350157-88170491-2d0a-42d0-b545-ef7f83b42891.png)
    
      
    
@@ -877,7 +879,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\34.png)
+     ![34](https://user-images.githubusercontent.com/92940432/144350160-78857d42-fbc6-4e5a-939b-2dc4a4e6f7a6.png)
    
      
    
@@ -889,7 +891,7 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\35.png)
+     ![35](https://user-images.githubusercontent.com/92940432/144350163-c97314e1-a5db-49c4-8acf-e765023c87b6.png)
    
      
    
@@ -897,7 +899,8 @@
    
      
    
-     ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\36.png)
+     ![36](https://user-images.githubusercontent.com/92940432/144350175-31fae38a-61b2-45b8-8255-e4eb0862efe9.png)
+
    
      
    
@@ -905,7 +908,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\37.png)
+       ![37](https://user-images.githubusercontent.com/92940432/144350177-b6bc86a5-4556-4564-b3a2-881799730ccb.png)
    
      
    
@@ -913,7 +916,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\38.png)
+       ![38](https://user-images.githubusercontent.com/92940432/144350348-ac0deeb2-ffc6-4719-a67c-13de0a476412.png)
    
      
    
@@ -921,7 +924,7 @@
    
        
        
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\39.png)
+       ![39](https://user-images.githubusercontent.com/92940432/144350188-fdddf16e-87fa-4f3a-8ba8-593a40af76d1.png)
    
      
    
@@ -929,7 +932,7 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\40.png)
+       ![40](https://user-images.githubusercontent.com/92940432/144350194-abad3eb4-8bf3-49b4-869c-cff382b14096.png)
    
      
    
@@ -937,7 +940,8 @@
    
        
    
-       ![](C:\Users\TRIA YULITA\Downloads\PRAK MODUL 2\41.png)
+       ![41](https://user-images.githubusercontent.com/92940432/144350201-233bdfa7-23c8-43fe-9c1a-4fcd79d99557.png)
+
      
      
 
